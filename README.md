@@ -5,7 +5,16 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com)
 [![Zap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585981169120)
 
+## 💡 Sobre Mim
+- 👨‍💻 Front-End Developer focado em interfaces modernas e responsivas
+- 📚 Aprendendo: TypeScript, Node.js e otimização de performance front-end
+- 🎨 Amante de design intuitivo e componentização de código
+
+> "Transformando ideias em interfaces incríveis!"
+
 ![Louis Dev](https://github-readme-stats.vercel.app/api?username=LuisOtavioSilveira&show_icons=true&theme=radical)
+
+
 
 ### Tecnologias que utilizo 🧑‍💻🤖:
 <div style="display: inline_block"><br>
